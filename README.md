@@ -17,7 +17,7 @@
     * [云桌面数据安全审计功能-window密码拦截器](#云桌面数据安全审计功能-window密码拦截器)
 
 ## C/C++实验平台
-* [禁止使用USB端口](https://github.com/songweifly/SwLiveExp/blob/master/usbdemo/README.md)
+* [禁止使用USB端口](https://github.com/songweifly/SwLiveExp/blob/master/usbdemo/)
 * [云桌面数据安全审计功能](https://github.com/songweifly/SwLiveExp/blob/master/SwLiveDataEnc/README.md)
 * [云桌面数据安全审计功能-Hook系统API](https://github.com/songweifly/SwLiveExp/blob/master/SwLiveDataEnc/AsComHook/README.md)
 * [云桌面数据安全审计功能-DLL注入器](https://github.com/songweifly/SwLiveExp/blob/master/SwLiveDataEnc/MyInsecter/README.md)
